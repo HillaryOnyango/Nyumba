@@ -1,11 +1,11 @@
 
 # 🏠 Nyumba Project – Real Estate Data Analysis in Kenya
 
-This projeect was initially a class exercise but i took it further and performed exploratory data extraction, manupulation and cleaning then loaded it to PostgreSQL through DBeaver. Then the  final part involved identifying trends and insights related to property prices, locations, types, and other key attributes that affect the housing market in Kenya after the data was loaded to PowerBI directly from PostgreSQL. The data was extracted from the site: (BuyrentKenya.com) and the base URL used in the project
+This projeect was initially a class exercise but i took it further and performed exploratory data extraction, manupulation and cleaning then loaded it to PostgreSQL through DBeaver. Then the  final part involved identifying trends and insights related to property prices, locations, types, and other key attributes that affect the housing market in Kenya after the data was loaded to PowerBI directly from PostgreSQL. The data was extracted from the site: (BuyrentKenya.com) and the base URL used in the project is (https://www.buyrentkenya.com/houses-for-sale)
 
 ## 📁 Project Structure
 
-- **Nyumba.ipynb**: The main Jupyter Notebook containing all data analysis steps—loading, cleaning, exploration, and visualization.
+- **Nyumba.ipynb**: The main Jupyter Notebook containing all data analysis steps—loading, cleaning,  while exploration was done using PostrgreSQL, and visualization was done using PowerBI.
 
 ## 🧰 Tools & Libraries Used
 
