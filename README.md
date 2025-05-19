@@ -12,7 +12,7 @@ This projeect was initially a class exercise but i took it further and performed
 - **Jupyter Notebook**
 - **Python**
   - `pandas` – for data manipulation
-  PostgreSQL(through DBeaver)
+  PostgreSQL(through DBeaver),
   PowerBI  - For Data Analysis and Visualization
 
 ##  Key Features
