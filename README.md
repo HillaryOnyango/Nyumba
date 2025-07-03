@@ -41,7 +41,7 @@ Remaining Parts( To-do Task)
 
 ## 📍 Context
 
-"Nyumba" means "house" in Swahili. This project aims to empower better real estate decision-making in Kenya through data-driven insights.
+"Nyumba" is a Swahili word for"house". This project aims to empower better real estate decision-making in Kenya through data-driven insights.
 
 
 
